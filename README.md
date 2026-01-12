@@ -27,7 +27,7 @@ The dataset includes images of Indian monuments:
 
 ## 📄 Research Paper
 The detailed research, experiments, results, and visualizations are in this PDF:  
-[Download Heritage Vision Paper](./Heritage_Vision_Final.docs)
+[Download Heritage Vision Paper](./Heritage_Vision_Final.docx)
 
 ---
 
